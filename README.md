@@ -1,6 +1,6 @@
 # React Router
 ## The Job Routing App
-### DoanXuanTruong
+### Doan Xuan Truong
 ![image](https://user-images.githubusercontent.com/100129338/174263032-7e6ab37c-12fc-4df0-a5fc-7c902a589439.png)
 
 ![image](https://user-images.githubusercontent.com/100129338/174263186-191042a1-c4e3-4db4-b0c6-b050080a9234.png)
